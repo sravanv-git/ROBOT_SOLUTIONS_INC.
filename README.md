@@ -11,7 +11,7 @@ Our goal is to create robots that can perform or perform a little human tasks, m
 
 ## Our Needs
 
-We're currently in the early stages of development(POC) and are seeking basic requirements with manufacturers who can help us bring our vision to life. we would like to engage with partss required for general robotics manufacturing like mechanical motor, microcontroller etc.,
+We're currently in the early stages of development(POC) and are seeking basic requirements with manufacturers who can help us bring our vision to life. we would like to engage with parts required for general robotics manufacturing materials like mechanical motor, microcontroller, arms etc.,
 
 ## Get in Touch
 
