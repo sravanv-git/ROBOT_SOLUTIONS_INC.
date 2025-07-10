@@ -15,7 +15,7 @@ We're currently in the early stages of development(POC) and are seeking basic re
 
 ## Get in Touch
 
-please get in touch with us and we can togeather create a better future. Please reach out to us at [sravan.roboticsolutions@gmail.com].
+please get in touch with us and we can togeather create a better future. Please reach out to us at [solutionsincrobotic@gmail.com].
 
 
 
