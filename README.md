@@ -15,7 +15,10 @@ We're currently in the early stages of development(POC) and are seeking basic re
 
 ## Get in Touch
 
-please get in touch with us and we can togeather create a better future. Please reach out to us at [solutionsincrobotic@gmail.com].
+please get in touch with us and we can togeather create a better future. Please reach out to us at [solutionsincrobotic@gmail.com]., +81-80-6293-9556
+
+it is based in japan,
+currently in POC stage. will post the updates here.
 
 
 
@@ -41,6 +44,6 @@ Robot Solutions Inc.では、障がいのある方や身体に障がいのある
 
 ## お問い合わせ
 
-ぜひご連絡ください。共により良い未来を創造していきます。お気軽にお問い合わせください  [sravan.roboticsolutions@gmail.com]。
+ぜひご連絡ください。共により良い未来を創造していきます。お気軽にお問い合わせください  [solutionsincrobotic@gmail.com]。+81-80-6293-9556
 
 
